@@ -33,3 +33,7 @@ The solution ties together language models for text processing, vector database 
   
 -- Stores vectorized meeting notes along with metadata.
 -- Enables semantic search based on similarity scoring.
+
+
+### Flow Chart
+![flow chart diagram nlp](categorization_diagram.png)
